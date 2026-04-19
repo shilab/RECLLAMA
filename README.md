@@ -33,3 +33,9 @@ streamlit run Recllama_main.py
 Or run directly with Python:
 
 python Recllama_main.py
+
+## Demo Video
+
+A demonstration of the ReCLLaMA medical reasoning pipeline:
+
+[Watch Demo Video](./demo.mov)
