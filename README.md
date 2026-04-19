@@ -60,15 +60,30 @@ ReCLLaMA/
 ├── patient_descriptions_diagnoses.csv
 ├── questions.csv
 ├── demo.mov                      # Demo video
+```
 
+---
 
 ## Installation
-
-Recommended Python version:
-
-- Python 3.9+
 
 Install dependencies:
 
 ```bash
 pip install pandas numpy scikit-learn torch transformers streamlit
+```
+
+---
+
+## Quick Start
+
+Run the interactive demo:
+
+```bash
+streamlit run Recllama_main.py
+```
+
+Or run directly:
+
+```bash
+python Recllama_main.py
+```
