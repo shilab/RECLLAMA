@@ -1,0 +1,1471 @@
+code,description
+845,Intestinal infection due to Clostridium difficile
+88,"Intestinal infection due to other organism, not elsewhere classified"
+90,"Infectious colitis, enteritis, and gastroenteritis"
+380,Streptococcal septicemia
+3810,"Staphylococcal septicemia, unspecified"
+3811,Methicillin susceptible Staphylococcus aureus septicemia
+3812,Methicillin resistant Staphylococcus aureus septicemia
+3819,Other staphylococcal septicemia
+382,Pneumococcal septicemia [Streptococcus pneumoniae septicemia]
+383,Septicemia due to anaerobes
+3840,"Septicemia due to gram-negative organism, unspecified"
+3842,Septicemia due to escherichia coli [E. coli]
+3843,Septicemia due to pseudomonas
+3849,Other septicemia due to gram-negative organisms
+388,Other specified septicemias
+389,Unspecified septicemia
+4102,"Streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group B"
+4104,"Streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group D [Enterococcus]"
+4109,"Streptococcus infection in conditions classified elsewhere and of unspecified site, other streptococcus"
+4110,"Staphylococcus infection in conditions classified elsewhere and of unspecified site, staphylococcus, unspecified"
+4111,Methicillin susceptible Staphylococcus aureus in conditions classified elsewhere and of unspecified site
+4112,Methicillin resistant Staphylococcus aureus in conditions classified elsewhere and of unspecified site
+4119,"Staphylococcus infection in conditions classified elsewhere and of unspecified site, other staphylococcus"
+413,Friedl?nder's bacillus infection in conditions classified elsewhere and of unspecified site
+414,[UNK:0414]
+4149,Other and unspecified Escherichia coli [E. coli]
+416,Proteus (mirabilis) (morganii) infection in conditions classified elsewhere and of unspecified site
+417,Pseudomonas infection in conditions classified elsewhere and of unspecified site
+4184,"Other specified bacterial infections in conditions classified elsewhere and of unspecified site, other anaerobes"
+4185,"Other specified bacterial infections in conditions classified elsewhere and of unspecified site, other gram-negative organisms"
+4186,Helicobacter pylori [H. pylori]
+4189,"Other specified bacterial infections in conditions classified elsewhere and of unspecified site, other specified bacteria"
+42,Human immunodeficiency virus [HIV] disease
+479,Unspecified viral meningitis
+5319,Herpes zoster with other nervous system complications
+539,Herpes zoster without mention of complication
+542,Herpetic gingivostomatitis
+549,Herpes simplex without mention of complication
+7030,"Viral hepatitis B without mention of hepatic coma, acute or unspecified, without mention of hepatitis delta"
+7032,Chronic viral hepatitis B without mention of hepatic coma without mention of hepatitis delta
+7044,Chronic hepatitis C with hepatic coma
+7051,Acute hepatitis C without mention of hepatic coma
+7054,Chronic hepatitis C without mention of hepatic coma
+7070,Unspecified viral hepatitis C without hepatic coma
+7071,Unspecified viral hepatitis C with hepatic coma
+785,Cytomegaloviral disease
+7999,Unspecified viral infection
+8881,Lyme Disease
+1101,Dermatophytosis of nail
+1103,Dermatophytosis of groin and perianal area
+1120,Candidiasis of mouth
+1121,Candidiasis of vulva and vagina
+1122,Candidiasis of other urogenital sites
+1123,Candidiasis of skin and nails
+1124,Candidiasis of lung
+1125,Disseminated candidiasis
+11284,Candidal esophagitis
+11289,Other candidiasis of other specified sites
+1173,Aspergillosis
+1179,Other and unspecified mycoses
+135,Sarcoidosis
+1363,Pneumocystosis
+138,Late effects of acute poliomyelitis
+1505,Malignant neoplasm of lower third of esophagus
+1508,Malignant neoplasm of other specified part of esophagus
+1510,Malignant neoplasm of cardia
+1533,Malignant neoplasm of sigmoid colon
+1534,Malignant neoplasm of cecum
+1536,Malignant neoplasm of ascending colon
+1541,Malignant neoplasm of rectum
+1550,"Malignant neoplasm of liver, primary"
+1551,Malignant neoplasm of intrahepatic bile ducts
+1552,"Malignant neoplasm of liver, not specified as primary or secondary"
+1560,Malignant neoplasm of gallbladder
+1561,Malignant neoplasm of extrahepatic bile ducts
+1562,Malignant neoplasm of ampulla of vater
+1570,Malignant neoplasm of head of pancreas
+1578,Malignant neoplasm of other specified sites of pancreas
+1622,Malignant neoplasm of main bronchus
+1623,"Malignant neoplasm of upper lobe, bronchus or lung"
+1625,"Malignant neoplasm of lower lobe, bronchus or lung"
+1628,Malignant neoplasm of other parts of bronchus or lung
+1629,"Malignant neoplasm of bronchus and lung, unspecified"
+1749,"Malignant neoplasm of breast (female), unspecified"
+1820,"Malignant neoplasm of corpus uteri, except isthmus"
+185,Malignant neoplasm of prostate
+1888,Malignant neoplasm of other specified sites of bladder
+1889,"Malignant neoplasm of bladder, part unspecified"
+1890,"Malignant neoplasm of kidney, except pelvis"
+1911,Malignant neoplasm of frontal lobe
+1912,Malignant neoplasm of temporal lobe
+1919,"Malignant neoplasm of brain, unspecified"
+193,Malignant neoplasm of thyroid gland
+1960,"Secondary and unspecified malignant neoplasm of lymph nodes of head, face, and neck"
+1961,Secondary and unspecified malignant neoplasm of intrathoracic lymph nodes
+1962,Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes
+1963,Secondary and unspecified malignant neoplasm of lymph nodes of axilla and upper limb
+1965,Secondary and unspecified malignant neoplasm of lymph nodes of inguinal region and lower limb
+1970,Secondary malignant neoplasm of lung
+1971,Secondary malignant neoplasm of mediastinum
+1972,Secondary malignant neoplasm of pleura
+1973,Secondary malignant neoplasm of other respiratory organs
+1974,Secondary malignant neoplasm of small intestine including duodenum
+1975,Secondary malignant neoplasm of large intestine and rectum
+1976,Secondary malignant neoplasm of retroperitoneum and peritoneum
+1977,"Malignant neoplasm of liver, secondary"
+1982,Secondary malignant neoplasm of skin
+1983,Secondary malignant neoplasm of brain and spinal cord
+1984,Secondary malignant neoplasm of other parts of nervous system
+1985,Secondary malignant neoplasm of bone and bone marrow
+1987,Secondary malignant neoplasm of adrenal gland
+19889,Secondary malignant neoplasm of other specified sites
+20020,"Burkitt's tumor or lymphoma, unspecified site, extranodal and solid organ sites"
+20190,"Hodgkin's disease, unspecified type, unspecified site, extranodal and solid organ sites"
+20210,"Mycosis fungoides, unspecified site, extranodal and solid organ sites"
+20280,"Other malignant lymphomas, unspecified site, extranodal and solid organ sites"
+20288,"Other malignant lymphomas, lymph nodes of multiple sites"
+20300,"Multiple myeloma, without mention of having achieved remission"
+20410,"Chronic lymphoid leukemia, without mention of having achieved remission"
+20500,"Acute myeloid leukemia, without mention of having achieved remission"
+20510,"Chronic myeloid leukemia, without mention of having achieved remission"
+2111,Benign neoplasm of stomach
+2112,"Benign neoplasm of duodenum, jejunum, and ileum"
+2113,Benign neoplasm of colon
+2114,Benign neoplasm of rectum and anal canal
+2127,Benign neoplasm of heart
+2252,Benign neoplasm of cerebral meninges
+2270,Benign neoplasm of adrenal gland
+2273,Benign neoplasm of pituitary gland and craniopharyngeal duct
+22802,Hemangioma of intracranial structures
+22804,Hemangioma of intra-abdominal structures
+22809,Hemangioma of other sites
+2387,[UNK:2387]
+23871,Essential thrombocythemia
+23875,"Myelodysplastic syndrome, unspecified"
+23879,Other lymphatic and hematopoietic tissues
+2411,Nontoxic multinodular goiter
+24200,Toxic diffuse goiter without mention of thyrotoxic crisis or storm
+24290,"Thyrotoxicosis without mention of goiter or other cause, and without mention of thyrotoxic crisis or storm"
+2440,Postsurgical hypothyroidism
+2441,Other postablative hypothyroidism
+2448,Other specified acquired hypothyroidism
+2449,Unspecified acquired hypothyroidism
+24900,"Secondary diabetes mellitus without mention of complication, not stated as uncontrolled, or unspecified"
+25000,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+25001,"Diabetes mellitus without mention of complication, type I [juvenile type], not stated as uncontrolled"
+25002,"Diabetes mellitus without mention of complication, type II or unspecified type, uncontrolled"
+25003,"Diabetes mellitus without mention of complication, type I [juvenile type], uncontrolled"
+25011,"Diabetes with ketoacidosis, type I [juvenile type], not stated as uncontrolled"
+25012,"Diabetes with ketoacidosis, type II or unspecified type, uncontrolled"
+25013,"Diabetes with ketoacidosis, type I [juvenile type], uncontrolled"
+25022,"Diabetes with hyperosmolarity, type II or unspecified type, uncontrolled"
+25040,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled"
+25041,"Diabetes with renal manifestations, type I [juvenile type], not stated as uncontrolled"
+25042,"Diabetes with renal manifestations, type II or unspecified type, uncontrolled"
+25043,"Diabetes with renal manifestations, type I [juvenile type], uncontrolled"
+25050,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+25051,"Diabetes with ophthalmic manifestations, type I [juvenile type], not stated as uncontrolled"
+25052,"Diabetes with ophthalmic manifestations, type II or unspecified type, uncontrolled"
+25053,"Diabetes with ophthalmic manifestations, type I [juvenile type], uncontrolled"
+25060,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+25061,"Diabetes with neurological manifestations, type I [juvenile type], not stated as uncontrolled"
+25062,"Diabetes with neurological manifestations, type II or unspecified type, uncontrolled"
+25063,"Diabetes with neurological manifestations, type I [juvenile type], uncontrolled"
+25070,"Diabetes with peripheral circulatory disorders, type II or unspecified type, not stated as uncontrolled"
+25071,"Diabetes with peripheral circulatory disorders, type I [juvenile type], not stated as uncontrolled"
+25072,"Diabetes with peripheral circulatory disorders, type II or unspecified type, uncontrolled"
+25080,"Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled"
+25081,"Diabetes with other specified manifestations, type I [juvenile type], not stated as uncontrolled"
+25082,"Diabetes with other specified manifestations, type II or unspecified type, uncontrolled"
+25083,"Diabetes with other specified manifestations, type I [juvenile type], uncontrolled"
+25092,"Diabetes with unspecified complication, type II or unspecified type, uncontrolled"
+2511,Other specified hypoglycemia
+2512,"Hypoglycemia, unspecified"
+2518,Other specified disorders of pancreatic internal secretion
+25200,"Hyperparathyroidism, unspecified"
+25201,Primary hyperparathyroidism
+2532,Panhypopituitarism
+2535,Diabetes insipidus
+2536,Other disorders of neurohypophysis
+2554,[UNK:2554]
+25541,Glucocorticoid deficiency
+2555,Other adrenal hypofunction
+2559,Unspecified disorder of adrenal glands
+261,Nutritional marasmus
+262,Other severe protein-calorie malnutrition
+2630,Malnutrition of moderate degree
+2638,Other protein-calorie malnutrition
+2639,Unspecified protein-calorie malnutrition
+2662,Other B-complex deficiencies
+2689,Unspecified vitamin D deficiency
+2710,Glycogenosis
+2720,Pure hypercholesterolemia
+2721,Pure hyperglyceridemia
+2724,Other and unspecified hyperlipidemia
+2731,Monoclonal paraproteinemia
+2733,Macroglobulinemia
+2738,Other disorders of plasma protein metabolism
+2740,[UNK:2740]
+27401,Acute gouty arthropathy
+2749,"Gout, unspecified"
+2750,[UNK:2750]
+27503,Other hemochromatosis
+2752,Disorders of magnesium metabolism
+2753,Disorders of phosphorus metabolism
+27541,Hypocalcemia
+27542,Hypercalcemia
+27549,Other disorders of calcium metabolism
+2760,Hyperosmolality and/or hypernatremia
+2761,Hyposmolality and/or hyponatremia
+2762,Acidosis
+2763,Alkalosis
+2764,Mixed acid-base balance disorder
+2765,[UNK:2765]
+27650,"Volume depletion, unspecified"
+27651,Dehydration
+27652,Hypovolemia
+2766,[UNK:2766]
+27669,Other fluid overload
+2767,Hyperpotassemia
+2768,Hypopotassemia
+2769,Electrolyte and fluid disorders not elsewhere classified
+2773,[UNK:2773]
+27730,"Amyloidosis, unspecified"
+27739,Other amyloidosis
+2774,Disorders of bilirubin excretion
+27788,Tumor lysis syndrome
+27800,"Obesity, unspecified"
+27801,Morbid obesity
+27803,Obesity hypoventilation syndrome
+2788,Other hyperalimentation
+27900,"Hypogammaglobulinemia, unspecified"
+27952,Chronic graft-versus-host disease
+2800,Iron deficiency anemia secondary to blood loss (chronic)
+2809,"Iron deficiency anemia, unspecified"
+2810,Pernicious anemia
+2811,Other vitamin B12 deficiency anemia
+2819,Unspecified deficiency anemia
+28249,Other thalassemia
+2825,Sickle-cell trait
+2830,Autoimmune hemolytic anemias
+28319,Other non-autoimmune hemolytic anemias
+2839,"Acquired hemolytic anemia, unspecified"
+2841,[UNK:2841]
+28419,Other pancytopenia
+2848,[UNK:2848]
+28489,Other specified aplastic anemias
+2851,Acute posthemorrhagic anemia
+28521,Anemia in chronic kidney disease
+28522,Anemia in neoplastic disease
+28529,Anemia of other chronic disease
+2853,Antineoplastic chemotherapy induced anemia
+2858,Other specified anemias
+2859,"Anemia, unspecified"
+2866,Defibrination syndrome
+2867,Acquired coagulation factor deficiency
+2869,Other and unspecified coagulation defects
+28731,Immune thrombocytopenic purpura
+2874,[UNK:2874]
+28749,Other secondary thrombocytopenia
+2875,"Thrombocytopenia, unspecified"
+2880,[UNK:2880]
+28800,"Neutropenia, unspecified"
+28803,Drug induced neutropenia
+2883,Eosinophilia
+28850,"Leukocytopenia, unspecified"
+28860,"Leukocytosis, unspecified"
+28959,Other diseases of spleen
+28981,Primary hypercoagulable state
+28984,Heparin-induced thrombocytopenia (HIT)
+2899,Unspecified diseases of blood and blood-forming organs
+2900,"Senile dementia, uncomplicated"
+29040,"Vascular dementia, uncomplicated"
+29041,"Vascular dementia, with delirium"
+2910,Alcohol withdrawal delirium
+2911,Alcohol-induced persisting amnestic disorder
+29181,Alcohol withdrawal
+2920,Drug withdrawal
+29212,Drug-induced psychotic disorder with hallucinations
+29281,Drug-induced delirium
+2930,Delirium due to conditions classified elsewhere
+2939,Unspecified transient mental disorder in conditions classified elsewhere
+29410,Dementia in conditions classified elsewhere without behavioral disturbance
+29411,Dementia in conditions classified elsewhere with behavioral disturbance
+29420,"Dementia, unspecified, without behavioral disturbance"
+2948,Other persistent mental disorders due to conditions classified elsewhere
+29530,"Paranoid type schizophrenia, unspecified"
+29532,"Paranoid type schizophrenia, chronic"
+29562,"Schizophrenic disorders, residual type, chronic"
+29570,"Schizoaffective disorder, unspecified"
+29572,"Schizoaffective disorder, chronic"
+29590,"Unspecified schizophrenia, unspecified"
+29620,"Major depressive affective disorder, single episode, unspecified"
+29630,"Major depressive affective disorder, recurrent episode, unspecified"
+29650,"Bipolar I disorder, most recent episode (or current) depressed, unspecified"
+2967,"Bipolar I disorder, most recent episode (or current) unspecified"
+29680,"Bipolar disorder, unspecified"
+29689,Other bipolar disorders
+29690,Unspecified episodic mood disorder
+2989,Unspecified psychosis
+30000,"Anxiety state, unspecified"
+30001,Panic disorder without agoraphobia
+3003,Obsessive-compulsive disorders
+3004,Dysthymic disorder
+3017,Antisocial personality disorder
+30183,Borderline personality disorder
+30300,"Acute alcoholic intoxication in alcoholism, unspecified"
+30301,"Acute alcoholic intoxication in alcoholism, continuous"
+30390,"Other and unspecified alcohol dependence, unspecified"
+30391,"Other and unspecified alcohol dependence, continuous"
+30392,"Other and unspecified alcohol dependence, episodic"
+30393,"Other and unspecified alcohol dependence, in remission"
+30400,"Opioid type dependence, unspecified"
+30401,"Opioid type dependence, continuous"
+30411,"Sedative, hypnotic or anxiolytic dependence, continuous"
+30421,"Cocaine dependence, continuous"
+30500,"Alcohol abuse, unspecified"
+30501,"Alcohol abuse, continuous"
+30503,"Alcohol abuse, in remission"
+3051,Tobacco use disorder
+30550,"Opioid abuse, unspecified"
+30560,"Cocaine abuse, unspecified"
+30563,"Cocaine abuse, in remission"
+30570,"Amphetamine or related acting sympathomimetic abuse, unspecified"
+30590,"Other, mixed, or unspecified drug abuse, unspecified"
+30593,"Other, mixed, or unspecified drug abuse, in remission"
+3071,Anorexia nervosa
+3079,"Other and unspecified special symptoms or syndromes, not elsewhere classified"
+3090,Adjustment disorder with depressed mood
+30928,Adjustment disorder with mixed anxiety and depressed mood
+30981,Posttraumatic stress disorder
+3099,Unspecified adjustment reaction
+311,"Depressive disorder, not elsewhere classified"
+31401,Attention deficit disorder with hyperactivity
+317,Mild intellectual disabilities
+319,Unspecified intellectual disabilities
+3203,Staphylococcal meningitis
+3229,"Meningitis, unspecified"
+3240,Intracranial abscess
+3241,Intraspinal abscess
+32723,Obstructive sleep apnea (adult)(pediatric)
+3310,Alzheimer's disease
+3313,Communicating hydrocephalus
+3314,Obstructive hydrocephalus
+33182,Dementia with lewy bodies
+3320,Paralysis agitans
+3330,Other degenerative diseases of the basal ganglia
+3331,Essential and other specified forms of tremor
+33394,Restless legs syndrome (RLS)
+33520,Amyotrophic lateral sclerosis
+3363,Myelopathy in other diseases classified elsewhere
+3371,Peripheral autonomic neuropathy in disorders classified elsewhere
+3379,Unspecified disorder of autonomic nervous system
+33811,Acute pain due to trauma
+33818,Other acute postoperative pain
+33819,Other acute pain
+33829,Other chronic pain
+3383,Neoplasm related pain (acute) (chronic)
+3384,Chronic pain syndrome
+340,Multiple sclerosis
+34200,Flaccid hemiplegia and hemiparesis affecting unspecified side
+34202,Flaccid hemiplegia and hemiparesis affecting nondominant side
+34290,"Hemiplegia, unspecified, affecting unspecified side"
+34291,"Hemiplegia, unspecified, affecting dominant side"
+34292,"Hemiplegia, unspecified, affecting nondominant side"
+3439,"Infantile cerebral palsy, unspecified"
+34400,"Quadriplegia, unspecified"
+3441,Paraplegia
+34460,Cauda equina syndrome without mention of neurogenic bladder
+34510,"Generalized convulsive epilepsy, without mention of intractable epilepsy"
+3453,Grand mal status
+34540,"Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, without mention of intractable epilepsy"
+34541,"Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, with intractable epilepsy"
+34550,"Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures, without mention of intractable epilepsy"
+34570,"Epilepsia partialis continua, without mention of intractable epilepsy"
+34580,"Other forms of epilepsy and recurrent seizures, without mention of intractable epilepsy"
+34590,"Epilepsy, unspecified, without mention of intractable epilepsy"
+34680,"Other forms of migraine, without mention of intractable migraine without mention of status migrainosus"
+34690,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus"
+3481,Anoxic brain damage
+34830,"Encephalopathy, unspecified"
+34831,Metabolic encephalopathy
+34839,Other encephalopathy
+3484,Compression of brain
+3485,Cerebral edema
+3488,[UNK:3488]
+34982,Toxic encephalopathy
+3510,Bell's palsy
+3518,Other facial nerve disorders
+3540,Carpal tunnel syndrome
+3558,"Mononeuritis of lower limb, unspecified"
+3559,Mononeuritis of unspecified site
+3569,Unspecified hereditary and idiopathic peripheral neuropathy
+3572,Polyneuropathy in diabetes
+3576,Polyneuropathy due to drugs
+35800,Myasthenia gravis without (acute) exacerbation
+35801,Myasthenia gravis with (acute) exacerbation
+35981,Critical illness myopathy
+3599,"Myopathy, unspecified"
+36201,Background diabetic retinopathy
+36250,"Macular degeneration (senile), unspecified"
+36570,"Glaucoma stage, unspecified"
+3659,Unspecified glaucoma
+3668,Other cataract
+3669,Unspecified cataract
+36846,Homonymous bilateral field defects
+3688,Other specified visual disturbances
+36900,"Profound impairment, both eyes, impairment level not further specified"
+3694,"Legal blindness, as defined in U.S.A."
+36960,"Profound impairment, one eye, impairment level not further specified"
+37200,"Acute conjunctivitis, unspecified"
+37230,"Conjunctivitis, unspecified"
+37430,"Ptosis of eyelid, unspecified"
+37851,"Third or oculomotor nerve palsy, partial"
+37854,Sixth or abducens nerve palsy
+37941,Anisocoria
+3829,Unspecified otitis media
+38600,"M?ni?re's disease, unspecified"
+3899,Unspecified hearing loss
+3940,Mitral stenosis
+3941,Rheumatic mitral insufficiency
+3942,Mitral stenosis with insufficiency
+3960,Mitral valve stenosis and aortic valve stenosis
+3962,Mitral valve insufficiency and aortic valve stenosis
+3963,Mitral valve insufficiency and aortic valve insufficiency
+3968,Multiple involvement of mitral and aortic valves
+3970,Diseases of tricuspid valve
+39890,"Rheumatic heart disease, unspecified"
+39891,Rheumatic heart failure (congestive)
+4010,Malignant essential hypertension
+4011,Benign essential hypertension
+4019,Unspecified essential hypertension
+40291,Unspecified hypertensive heart disease with heart failure
+40300,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage I through stage IV, or unspecified"
+40301,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease"
+40310,"Hypertensive chronic kidney disease, benign, with chronic kidney disease stage I through stage IV, or unspecified"
+40311,"Hypertensive chronic kidney disease, benign, with chronic kidney disease stage V or end stage renal disease"
+40390,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+40391,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease"
+40491,"Hypertensive heart and chronic kidney disease, unspecified, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified"
+40493,"Hypertensive heart and chronic kidney disease, unspecified, with heart failure and chronic kidney disease stage V or end stage renal disease"
+41001,"Acute myocardial infarction of anterolateral wall, initial episode of care"
+41011,"Acute myocardial infarction of other anterior wall, initial episode of care"
+41012,"Acute myocardial infarction of other anterior wall, subsequent episode of care"
+41021,"Acute myocardial infarction of inferolateral wall, initial episode of care"
+41031,"Acute myocardial infarction of inferoposterior wall, initial episode of care"
+41041,"Acute myocardial infarction of other inferior wall, initial episode of care"
+41042,"Acute myocardial infarction of other inferior wall, subsequent episode of care"
+41051,"Acute myocardial infarction of other lateral wall, initial episode of care"
+41061,"True posterior wall infarction, initial episode of care"
+41071,"Subendocardial infarction, initial episode of care"
+41072,"Subendocardial infarction, subsequent episode of care"
+41081,"Acute myocardial infarction of other specified sites, initial episode of care"
+41091,"Acute myocardial infarction of unspecified site, initial episode of care"
+41092,"Acute myocardial infarction of unspecified site, subsequent episode of care"
+4111,Intermediate coronary syndrome
+41189,"Other acute and subacute forms of ischemic heart disease, other"
+412,Old myocardial infarction
+4139,Other and unspecified angina pectoris
+41400,"Coronary atherosclerosis of unspecified type of vessel, native or graft"
+41401,Coronary atherosclerosis of native coronary artery
+41402,Coronary atherosclerosis of autologous vein bypass graft
+41404,Coronary atherosclerosis of artery bypass graft
+41410,Aneurysm of heart (wall)
+41412,Dissection of coronary artery
+4142,Chronic total occlusion of coronary artery
+4148,Other specified forms of chronic ischemic heart disease
+41511,Iatrogenic pulmonary embolism and infarction
+41512,Septic pulmonary embolism
+41519,Other pulmonary embolism and infarction
+4160,Primary pulmonary hypertension
+4162,Chronic pulmonary embolism
+4168,Other chronic pulmonary heart diseases
+4169,"Chronic pulmonary heart disease, unspecified"
+42090,"Acute pericarditis, unspecified"
+42091,Acute idiopathic pericarditis
+4210,Acute and subacute bacterial endocarditis
+4230,Hemopericardium
+4231,Adhesive pericarditis
+4232,Constrictive pericarditis
+4233,Cardiac tamponade
+4238,Other specified diseases of pericardium
+4239,Unspecified disease of pericardium
+4240,Mitral valve disorders
+4241,Aortic valve disorders
+4242,"Tricuspid valve disorders, specified as nonrheumatic"
+42490,"Endocarditis, valve unspecified, unspecified cause"
+4251,[UNK:4251]
+4254,Other primary cardiomyopathies
+4255,Alcoholic cardiomyopathy
+4257,Nutritional and metabolic cardiomyopathy
+4258,Cardiomyopathy in other diseases classified elsewhere
+4259,"Secondary cardiomyopathy, unspecified"
+4260,"Atrioventricular block, complete"
+42610,"Atrioventricular block, unspecified"
+42611,First degree atrioventricular block
+42613,Other second degree atrioventricular block
+4263,Other left bundle branch block
+4264,Right bundle branch block
+42652,Right bundle branch block and left anterior fascicular block
+42653,Other bilateral bundle branch block
+42682,Long QT syndrome
+4270,Paroxysmal supraventricular tachycardia
+4271,Paroxysmal ventricular tachycardia
+42731,Atrial fibrillation
+42732,Atrial flutter
+42741,Ventricular fibrillation
+4275,Cardiac arrest
+42761,Supraventricular premature beats
+42769,Other premature beats
+42781,Sinoatrial node dysfunction
+42789,Other specified cardiac dysrhythmias
+4280,"Congestive heart failure, unspecified"
+42820,"Systolic heart failure, unspecified"
+42821,Acute systolic heart failure
+42822,Chronic systolic heart failure
+42823,Acute on chronic systolic heart failure
+42830,"Diastolic heart failure, unspecified"
+42831,Acute diastolic heart failure
+42832,Chronic diastolic heart failure
+42833,Acute on chronic diastolic heart failure
+42840,"Combined systolic and diastolic heart failure, unspecified"
+42841,Acute combined systolic and diastolic heart failure
+42842,Chronic combined systolic and diastolic heart failure
+42843,Acute on chronic combined systolic and diastolic heart failure
+4293,Cardiomegaly
+4295,Rupture of chordae tendineae
+42971,Acquired cardiac septal defect
+42983,Takotsubo syndrome
+42989,Other ill-defined heart diseases
+4299,"Heart disease, unspecified"
+430,Subarachnoid hemorrhage
+431,Intracerebral hemorrhage
+4321,Subdural hemorrhage
+4329,Unspecified intracranial hemorrhage
+43310,Occlusion and stenosis of carotid artery without mention of cerebral infarction
+43311,Occlusion and stenosis of carotid artery with cerebral infarction
+43320,Occlusion and stenosis of vertebral artery without mention of cerebral infarction
+43330,Occlusion and stenosis of multiple and bilateral precerebral arteries without mention of cerebral infarction
+43401,Cerebral thrombosis with cerebral infarction
+43411,Cerebral embolism with cerebral infarction
+43491,"Cerebral artery occlusion, unspecified with cerebral infarction"
+4352,Subclavian steal syndrome
+4358,Other specified transient cerebral ischemias
+4359,Unspecified transient cerebral ischemia
+4370,Cerebral atherosclerosis
+4373,"Cerebral aneurysm, nonruptured"
+4380,"Late effects of cerebrovascular disease, cognitive deficits"
+43811,"Late effects of cerebrovascular disease, aphasia"
+43819,"Late effects of cerebrovascular disease, other speech and language deficits"
+43820,"Late effects of cerebrovascular disease, hemiplegia affecting unspecified side"
+4387,"Late effects of cerebrovascular disease, disturbances of vision"
+43882,"Other late effects of cerebrovascular disease, dysphagia"
+43883,"Other late effects of cerebrovascular disease, facial weakness"
+43889,Other late effects of cerebrovascular disease
+4389,Unspecified late effects of cerebrovascular disease
+4400,Atherosclerosis of aorta
+4401,Atherosclerosis of renal artery
+44020,"Atherosclerosis of native arteries of the extremities, unspecified"
+44021,Atherosclerosis of native arteries of the extremities with intermittent claudication
+44022,Atherosclerosis of native arteries of the extremities with rest pain
+44023,Atherosclerosis of native arteries of the extremities with ulceration
+44024,Atherosclerosis of native arteries of the extremities with gangrene
+44031,Atherosclerosis of autologous vein bypass graft of the extremities
+4404,Chronic total occlusion of artery of the extremities
+4408,Atherosclerosis of other specified arteries
+44101,"Dissection of aorta, thoracic"
+44102,"Dissection of aorta, abdominal"
+44103,"Dissection of aorta, thoracoabdominal"
+4411,"Thoracic aneurysm, ruptured"
+4412,Thoracic aneurysm without mention of rupture
+4414,Abdominal aneurysm without mention of rupture
+4417,"Thoracoabdominal aneurysm, without mention of rupture"
+4422,Aneurysm of iliac artery
+4423,Aneurysm of artery of lower extremity
+4430,Raynaud's syndrome
+44329,Dissection of other artery
+44381,Peripheral angiopathy in diseases classified elsewhere
+44389,Other specified peripheral vascular diseases
+4439,"Peripheral vascular disease, unspecified"
+4440,[UNK:4440]
+4441,Embolism and thrombosis of thoracic aorta
+44421,Arterial embolism and thrombosis of upper extremity
+44422,Arterial embolism and thrombosis of lower extremity
+44481,Embolism and thrombosis of iliac artery
+44489,Embolism and thrombosis of other specified artery
+44629,Other specified hypersensitivity angiitis
+4464,Wegener's granulomatosis
+4465,Giant cell arteritis
+4466,Thrombotic microangiopathy
+4471,Stricture of artery
+4476,"Arteritis, unspecified"
+449,Septic arterial embolism
+45182,Phlebitis and thrombophlebitis of superficial veins of upper extremities
+45189,Phlebitis and thrombophlebitis of other sites
+452,Portal vein thrombosis
+4532,Other venous embolism and thrombosis of inferior vena cava
+45340,Acute venous embolism and thrombosis of unspecified deep vessels of lower extremity
+45341,Acute venous embolism and thrombosis of deep vessels of proximal lower extremity
+45342,Acute venous embolism and thrombosis of deep vessels of distal lower extremity
+45351,Chronic venous embolism and thrombosis of deep vessels of proximal lower extremity
+4538,[UNK:4538]
+45381,Acute venous embolism and thrombosis of superficial veins of upper extremity
+45382,Acute venous embolism and thrombosis of deep veins of upper extremity
+45384,Acute venous embolism and thrombosis of axillary veins
+45385,Acute venous embolism and thrombosis of subclavian veins
+45386,Acute venous embolism and thrombosis of internal jugular veins
+4549,Asymptomatic varicose veins
+4550,Internal hemorrhoids without mention of complication
+4552,Internal hemorrhoids with other complication
+4556,Unspecified hemorrhoids without mention of complication
+4558,Unspecified hemorrhoids with other complication
+4561,Esophageal varices without mention of bleeding
+45620,"Esophageal varices in diseases classified elsewhere, with bleeding"
+45621,"Esophageal varices in diseases classified elsewhere, without mention of bleeding"
+4568,Varices of other sites
+4571,Other lymphedema
+4578,Other noninfectious disorders of lymphatic channels
+4580,Orthostatic hypotension
+4582,[UNK:4582]
+45821,Hypotension of hemodialysis
+45829,Other iatrogenic hypotension
+4588,Other specified hypotension
+4589,"Hypotension, unspecified"
+4590,"Hemorrhage, unspecified"
+4592,Compression of vein
+45981,"Venous (peripheral) insufficiency, unspecified"
+4619,"Acute sinusitis, unspecified"
+4659,Acute upper respiratory infections of unspecified site
+4660,Acute bronchitis
+4739,Unspecified sinusitis (chronic)
+47829,"Other diseases of pharynx, not elsewhere classified"
+47830,"Paralysis of vocal cords or larynx, unspecified"
+47831,"Unilateral paralysis of vocal cords or larynx, partial"
+4785,Other diseases of vocal cords
+4786,Edema of larynx
+47875,Laryngeal spasm
+4809,"Viral pneumonia, unspecified"
+481,Pneumococcal pneumonia [Streptococcus pneumoniae pneumonia]
+4820,Pneumonia due to Klebsiella pneumoniae
+4821,Pneumonia due to Pseudomonas
+4822,Pneumonia due to Hemophilus influenzae [H. influenzae]
+48241,Methicillin susceptible pneumonia due to Staphylococcus aureus
+48242,Methicillin resistant pneumonia due to Staphylococcus aureus
+48282,Pneumonia due to escherichia coli [E. coli]
+48283,Pneumonia due to other gram-negative bacteria
+48284,Pneumonia due to Legionnaires' disease
+4829,"Bacterial pneumonia, unspecified"
+4846,Pneumonia in aspergillosis
+485,"Bronchopneumonia, organism unspecified"
+486,"Pneumonia, organism unspecified"
+4870,Influenza with pneumonia
+4871,Influenza with other respiratory manifestations
+49120,Obstructive chronic bronchitis without exacerbation
+49121,Obstructive chronic bronchitis with (acute) exacerbation
+49122,Obstructive chronic bronchitis with acute bronchitis
+4920,Emphysematous bleb
+4928,Other emphysema
+49320,"Chronic obstructive asthma, unspecified"
+49322,Chronic obstructive asthma with (acute) exacerbation
+49390,"Asthma, unspecified type, unspecified"
+49392,"Asthma, unspecified type, with (acute) exacerbation"
+4940,Bronchiectasis without acute exacerbation
+4941,Bronchiectasis with acute exacerbation
+496,"Chronic airway obstruction, not elsewhere classified"
+501,Asbestosis
+5070,Pneumonitis due to inhalation of food or vomitus
+5100,Empyema with fistula
+5109,Empyema without mention of fistula
+5110,Pleurisy without mention of effusion or current tuberculosis
+5118,[UNK:5118]
+51181,Malignant pleural effusion
+51189,"Other specified forms of effusion, except tuberculous"
+5119,Unspecified pleural effusion
+5121,Iatrogenic pneumothorax
+5128,[UNK:5128]
+514,Pulmonary congestion and hypostasis
+515,Postinflammatory pulmonary fibrosis
+5168,Other specified alveolar and parietoalveolar pneumonopathies
+5178,Lung involvement in other diseases classified elsewhere
+5180,Pulmonary collapse
+5181,Interstitial emphysema
+5184,"Acute edema of lung, unspecified"
+5185,[UNK:5185]
+51851,Acute respiratory failure following trauma and surgery
+51852,"Other pulmonary insufficiency, not elsewhere classified, following trauma and surgery"
+51881,Acute respiratory failure
+51882,"Other pulmonary insufficiency, not elsewhere classified"
+51883,Chronic respiratory failure
+51884,Acute and chronic respiratory failure
+51889,"Other diseases of lung, not elsewhere classified"
+51902,Mechanical complication of tracheostomy
+51909,Other tracheostomy complications
+5191,[UNK:5191]
+51919,Other diseases of trachea and bronchus
+52100,"Dental caries, unspecified"
+5224,Acute apical periodontitis of pulpal origin
+5225,Periapical abscess without sinus
+52800,"Stomatitis and mucositis, unspecified"
+52801,Mucositis (ulcerative) due to antineoplastic therapy
+5289,Other and unspecified diseases of the oral soft tissues
+5300,Achalasia and cardiospasm
+53010,"Esophagitis, unspecified"
+53019,Other esophagitis
+53020,Ulcer of esophagus without bleeding
+53021,Ulcer of esophagus with bleeding
+5303,Stricture and stenosis of esophagus
+5305,Dyskinesia of esophagus
+5306,"Diverticulum of esophagus, acquired"
+5307,Gastroesophageal laceration-hemorrhage syndrome
+53081,Esophageal reflux
+53082,Esophageal hemorrhage
+53085,Barrett's esophagus
+53100,"Acute gastric ulcer with hemorrhage, without mention of obstruction"
+53140,"Chronic or unspecified gastric ulcer with hemorrhage, without mention of obstruction"
+53170,"Chronic gastric ulcer without mention of hemorrhage or perforation, without mention of obstruction"
+53190,"Gastric ulcer, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction"
+53200,"Acute duodenal ulcer with hemorrhage, without mention of obstruction"
+53240,"Chronic or unspecified duodenal ulcer with hemorrhage, without mention of obstruction"
+53290,"Duodenal ulcer, unspecified as acute or chronic, without hemorrhage or perforation, without mention of obstruction"
+53390,"Peptic ulcer of unspecified site, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction"
+53440,"Chronic or unspecified gastrojejunal ulcer with hemorrhage, without mention of obstruction"
+53501,"Acute gastritis, with hemorrhage"
+53510,"Atrophic gastritis, without mention of hemorrhage"
+53540,"Other specified gastritis, without mention of hemorrhage"
+53541,"Other specified gastritis, with hemorrhage"
+53550,"Unspecified gastritis and gastroduodenitis, without mention of hemorrhage"
+53551,"Unspecified gastritis and gastroduodenitis, with hemorrhage"
+53560,"Duodenitis, without mention of hemorrhage"
+53561,"Duodenitis, with hemorrhage"
+5363,Gastroparesis
+53641,Infection of gastrostomy
+53642,Mechanical complication of gastrostomy
+53649,Other gastrostomy complications
+5368,Dyspepsia and other specified disorders of function of stomach
+5370,Acquired hypertrophic pyloric stenosis
+5373,Other obstruction of duodenum
+53782,Angiodysplasia of stomach and duodenum without mention of hemorrhage
+53783,Angiodysplasia of stomach and duodenum with hemorrhage
+53789,Other specified disorders of stomach and duodenum
+5379,Unspecified disorder of stomach and duodenum
+55090,"Inguinal hernia, without mention of obstruction or gangrene, unilateral or unspecified (not specified as recurrent)"
+55092,"Inguinal hernia, without mention of obstruction or gangrene, bilateral (not specified as recurrent)"
+5521,Umbilical hernia with obstruction
+55221,Incisional ventral hernia with obstruction
+5523,Diaphragmatic hernia with obstruction
+5531,Umbilical hernia without mention of obstruction or gangrene
+55320,"Ventral, unspecified, hernia without mention of obstruction or gangrene"
+55321,Incisional hernia without mention of obstruction or gangrene
+5533,Diaphragmatic hernia without mention of obstruction or gangrene
+5551,Regional enteritis of large intestine
+5552,Regional enteritis of small intestine with large intestine
+5559,Regional enteritis of unspecified site
+5566,Universal ulcerative (chronic) colitis
+5569,"Ulcerative colitis, unspecified"
+5570,Acute vascular insufficiency of intestine
+5571,Chronic vascular insufficiency of intestine
+5579,Unspecified vascular insufficiency of intestine
+5589,Other and unspecified noninfectious gastroenteritis and colitis
+5601,Paralytic ileus
+5602,Volvulus
+56039,Other impaction of intestine
+56081,Intestinal or peritoneal adhesions with obstruction (postoperative) (postinfection)
+56089,Other specified intestinal obstruction
+5609,Unspecified intestinal obstruction
+56200,Diverticulosis of small intestine (without mention of hemorrhage)
+56210,Diverticulosis of colon (without mention of hemorrhage)
+56211,Diverticulitis of colon (without mention of hemorrhage)
+56212,Diverticulosis of colon with hemorrhage
+56213,Diverticulitis of colon with hemorrhage
+56400,"Constipation, unspecified"
+56409,Other constipation
+5641,Irritable bowel syndrome
+5650,Anal fissure
+566,Abscess of anal and rectal regions
+5672,[UNK:5672]
+56721,Peritonitis (acute) generalized
+56722,Peritoneal abscess
+56723,Spontaneous bacterial peritonitis
+56729,Other suppurative peritonitis
+56731,Psoas muscle abscess
+56738,Other retroperitoneal abscess
+5679,Unspecified peritonitis
+5680,Peritoneal adhesions (postoperative) (postinfection)
+56881,Hemoperitoneum (nontraumatic)
+56889,Other specified disorders of peritoneum
+5691,Rectal prolapse
+5693,Hemorrhage of rectum and anus
+56941,Ulcer of anus and rectum
+56949,Other specified disorders of rectum and anus
+5695,Abscess of intestine
+56962,Mechanical complication of colostomy and enterostomy
+56969,Other colostomy and enterostomy complication
+56981,"Fistula of intestine, excluding rectum and anus"
+56982,Ulceration of intestine
+56983,Perforation of intestine
+56985,Angiodysplasia of intestine with hemorrhage
+56989,Other specified disorders of intestine
+570,Acute and subacute necrosis of liver
+5710,Alcoholic fatty liver
+5711,Acute alcoholic hepatitis
+5712,Alcoholic cirrhosis of liver
+5713,"Alcoholic liver damage, unspecified"
+57142,Autoimmune hepatitis
+57149,Other chronic hepatitis
+5715,Cirrhosis of liver without mention of alcohol
+5716,Biliary cirrhosis
+5718,Other chronic nonalcoholic liver disease
+5720,Abscess of liver
+5722,Hepatic encephalopathy
+5723,Portal hypertension
+5724,Hepatorenal syndrome
+5728,Other sequelae of chronic liver disease
+5730,Chronic passive congestion of liver
+5733,"Hepatitis, unspecified"
+5734,Hepatic infarction
+5738,Other specified disorders of liver
+5739,Unspecified disorder of liver
+57400,"Calculus of gallbladder with acute cholecystitis, without mention of obstruction"
+57410,"Calculus of gallbladder with other cholecystitis, without mention of obstruction"
+57420,"Calculus of gallbladder without mention of cholecystitis, without mention of obstruction"
+57431,"Calculus of bile duct with acute cholecystitis, with obstruction"
+57450,"Calculus of bile duct without mention of cholecystitis, without mention of obstruction"
+57451,"Calculus of bile duct without mention of cholecystitis, with obstruction"
+57471,"Calculus of gallbladder and bile duct with other cholecystitis, with obstruction"
+57491,"Calculus of gallbladder and bile duct without cholecystitis, with obstruction"
+5750,Acute cholecystitis
+57510,"Cholecystitis, unspecified"
+57511,Chronic cholecystitis
+5758,Other specified disorders of gallbladder
+5761,Cholangitis
+5762,Obstruction of bile duct
+5768,Other specified disorders of biliary tract
+5770,Acute pancreatitis
+5771,Chronic pancreatitis
+5772,Cyst and pseudocyst of pancreas
+5778,Other specified diseases of pancreas
+5779,Unspecified disease of pancreas
+5780,Hematemesis
+5781,Blood in stool
+5789,"Hemorrhage of gastrointestinal tract, unspecified"
+5790,Celiac disease
+5793,Other and unspecified postsurgical nonabsorption
+5798,Other specified intestinal malabsorption
+58089,Acute glomerulonephritis with other specified pathological lesion in kidney
+58281,Chronic glomerulonephritis in diseases classified elsewhere
+5829,Chronic glomerulonephritis with unspecified pathological lesion in kidney
+58381,"Nephritis and nephropathy, not specified as acute or chronic, in diseases classified elsewhere"
+5839,"Nephritis and nephropathy, not specified as acute or chronic, with unspecified pathological lesion in kidney"
+5845,Acute kidney failure with lesion of tubular necrosis
+5848,Acute kidney failure with other specified pathological lesion in kidney
+5849,"Acute kidney failure, unspecified"
+585,[UNK:585]
+5852,"Chronic kidney disease, Stage II (mild)"
+5853,"Chronic kidney disease, Stage III (moderate)"
+5854,"Chronic kidney disease, Stage IV (severe)"
+5855,"Chronic kidney disease, Stage V"
+5856,End stage renal disease
+5859,"Chronic kidney disease, unspecified"
+5880,Renal osteodystrophy
+58881,Secondary hyperparathyroidism (of renal origin)
+58889,Other specified disorders resulting from impaired renal function
+59010,Acute pyelonephritis without lesion of renal medullary necrosis
+59080,"Pyelonephritis, unspecified"
+591,Hydronephrosis
+5920,Calculus of kidney
+5921,Calculus of ureter
+5932,"Cyst of kidney, acquired"
+5933,Stricture or kinking of ureter
+5934,Other ureteric obstruction
+59381,Vascular disorders of kidney
+5939,Unspecified disorder of kidney and ureter
+59582,Irradiation cystitis
+5959,"Cystitis, unspecified"
+5961,Intestinovesical fistula
+59654,Neurogenic bladder NOS
+5968,[UNK:5968]
+5989,"Urethral stricture, unspecified"
+5990,"Urinary tract infection, site not specified"
+59960,"Urinary obstruction, unspecified"
+59969,"Urinary obstruction, not elsewhere classified"
+5997,[UNK:5997]
+59970,"Hematuria, unspecified"
+59971,Gross hematuria
+59972,Microscopic hematuria
+60000,Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS)
+60001,Hypertrophy (benign) of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS)
+605,Redundant prepuce and phimosis
+60784,Impotence of organic origin
+6084,Other inflammatory disorders of male genital organs
+60886,Edema of male genital organs
+61610,"Vaginitis and vulvovaginitis, unspecified"
+6191,"Digestive-genital tract fistula, female"
+6202,Other and unspecified ovarian cyst
+6238,Other specified noninflammatory disorders of vagina
+6262,Excessive or frequent menstruation
+68110,"Cellulitis and abscess of toe, unspecified"
+6822,Cellulitis and abscess of trunk
+6823,Cellulitis and abscess of upper arm and forearm
+6824,"Cellulitis and abscess of hand, except fingers and thumb"
+6825,Cellulitis and abscess of buttock
+6826,"Cellulitis and abscess of leg, except foot"
+6827,"Cellulitis and abscess of foot, except toes"
+6851,Pilonidal cyst without mention of abscess
+6929,"Contact dermatitis and other eczema, unspecified cause"
+6930,Dermatitis due to drugs and medicines taken internally
+6953,Rosacea
+6959,Unspecified erythematous condition
+6960,Psoriatic arthropathy
+6961,Other psoriasis
+6989,Unspecified pruritic disorder
+7048,Other specified diseases of hair and hair follicles
+7070,[UNK:7070]
+70701,"Pressure ulcer, elbow"
+70702,"Pressure ulcer, upper back"
+70703,"Pressure ulcer, lower back"
+70704,"Pressure ulcer, hip"
+70705,"Pressure ulcer, buttock"
+70706,"Pressure ulcer, ankle"
+70707,"Pressure ulcer, heel"
+70709,"Pressure ulcer, other site"
+70710,"Ulcer of lower limb, unspecified"
+70712,Ulcer of calf
+70713,Ulcer of ankle
+70714,Ulcer of heel and midfoot
+70715,Ulcer of other part of foot
+70719,Ulcer of other part of lower limb
+70720,"Pressure ulcer, unspecified stage"
+70721,"Pressure ulcer, stage I"
+70722,"Pressure ulcer, stage II"
+70723,"Pressure ulcer, stage III"
+70724,"Pressure ulcer, stage IV"
+70725,"Pressure ulcer, unstageable"
+7078,Chronic ulcer of other specified sites
+7098,Other specified disorders of skin
+7100,Systemic lupus erythematosus
+7101,Systemic sclerosis
+7102,Sicca syndrome
+71101,"Pyogenic arthritis, shoulder region"
+71105,"Pyogenic arthritis, pelvic region and thigh"
+71106,"Pyogenic arthritis, lower leg"
+7135,Arthropathy associated with neurological disorders
+7140,Rheumatoid arthritis
+71535,"Osteoarthrosis, localized, not specified whether primary or secondary, pelvic region and thigh"
+71536,"Osteoarthrosis, localized, not specified whether primary or secondary, lower leg"
+71590,"Osteoarthrosis, unspecified whether generalized or localized, site unspecified"
+71591,"Osteoarthrosis, unspecified whether generalized or localized, shoulder region"
+71595,"Osteoarthrosis, unspecified whether generalized or localized, pelvic region and thigh"
+71596,"Osteoarthrosis, unspecified whether generalized or localized, lower leg"
+71598,"Osteoarthrosis, unspecified whether generalized or localized, other specified sites"
+71690,"Arthropathy, unspecified, site unspecified"
+71696,"Arthropathy, unspecified, lower leg"
+71906,"Effusion of joint, lower leg"
+71941,"Pain in joint, shoulder region"
+71945,"Pain in joint, pelvic region and thigh"
+71946,"Pain in joint, lower leg"
+71947,"Pain in joint, ankle and foot"
+7197,Difficulty in walking
+7200,Ankylosing spondylitis
+7210,Cervical spondylosis without myelopathy
+7211,Cervical spondylosis with myelopathy
+7213,Lumbosacral spondylosis without myelopathy
+72190,"Spondylosis of unspecified site, without mention of myelopathy"
+7220,Displacement of cervical intervertebral disc without myelopathy
+72210,Displacement of lumbar intervertebral disc without myelopathy
+72252,Degeneration of lumbar or lumbosacral intervertebral disc
+72291,"Other and unspecified disc disorder, cervical region"
+72293,"Other and unspecified disc disorder, lumbar region"
+7230,Spinal stenosis in cervical region
+7231,Cervicalgia
+72400,"Spinal stenosis, unspecified region"
+72402,"Spinal stenosis, lumbar region, without neurogenic claudication"
+7242,Lumbago
+7243,Sciatica
+7244,"Thoracic or lumbosacral neuritis or radiculitis, unspecified"
+7245,"Backache, unspecified"
+725,Polymyalgia rheumatica
+72610,"Disorders of bursae and tendons in shoulder region, unspecified"
+72885,Spasm of muscle
+72886,Necrotizing fasciitis
+72887,Muscle weakness (generalized)
+72888,Rhabdomyolysis
+72889,"Other disorders of muscle, ligament, and fascia"
+7291,"Myalgia and myositis, unspecified"
+7295,Pain in limb
+72973,Nontraumatic compartment syndrome of abdomen
+72981,Swelling of limb
+72989,Other musculoskeletal symptoms referable to limbs
+72992,Nontraumatic hematoma of soft tissue
+73007,"Acute osteomyelitis, ankle and foot"
+73008,"Acute osteomyelitis, other specified sites"
+73017,"Chronic osteomyelitis, ankle and foot"
+73018,"Chronic osteomyelitis, other specified sites"
+73027,"Unspecified osteomyelitis, ankle and foot"
+73028,"Unspecified osteomyelitis, other specified sites"
+7313,Major osseous defects
+7318,Other bone involvement in diseases classified elsewhere
+73300,"Osteoporosis, unspecified"
+73313,Pathologic fracture of vertebrae
+73342,Aseptic necrosis of head and neck of femur
+73382,Nonunion of fracture
+73390,"Disorder of bone and cartilage, unspecified"
+73710,Kyphosis (acquired) (postural)
+73730,"Scoliosis [and kyphoscoliosis], idiopathic"
+73819,Other specified acquired deformity of head
+7384,Acquired spondylolisthesis
+74190,"Spina bifida without mention of hydrocephalus, unspecified region"
+7455,Ostium secundum type atrial septal defect
+7464,Congenital insufficiency of aortic valve
+74689,Other specified congenital anomalies of heart
+7470,Patent ductus arteriosus
+74781,Anomalies of cerebrovascular system
+75312,"Polycystic kidney, unspecified type"
+7596,"Other hamartoses, not elsewhere classified"
+75989,Other specified congenital anomalies
+76519,"Other preterm infants, 2,500 grams and over"
+76528,35-36 completed weeks of gestation
+7706,Transitory tachypnea of newborn
+7726,Cutaneous hemorrhage of fetus or newborn
+7742,Neonatal jaundice associated with preterm delivery
+7761,Transient neonatal thrombocytopenia
+77989,Other specified conditions originating in the perinatal period
+78001,Coma
+78009,Other alteration of consciousness
+7801,Hallucinations
+7802,Syncope and collapse
+78039,Other convulsions
+7804,Dizziness and giddiness
+78052,"Insomnia, unspecified"
+78057,Unspecified sleep apnea
+7806,[UNK:7806]
+78060,"Fever, unspecified"
+78061,Fever presenting with conditions classified elsewhere
+78062,Postprocedural fever
+78065,Hypothermia not associated with low environmental temperature
+78079,Other malaise and fatigue
+78093,Memory loss
+78097,Altered mental status
+78099,Other general symptoms
+7810,Abnormal involuntary movements
+7812,Abnormality of gait
+78194,Facial weakness
+7820,Disturbance of skin sensation
+7821,Rash and other nonspecific skin eruption
+7823,Edema
+7824,"Jaundice, unspecified, not of newborn"
+7827,Spontaneous ecchymoses
+7830,Anorexia
+78321,Loss of weight
+7837,Adult failure to thrive
+7840,Headache
+7842,"Swelling, mass, or lump in head and neck"
+7843,Aphasia
+7845,[UNK:7845]
+78451,Dysarthria
+78459,Other speech disturbance
+78469,Other symbolic dysfunction
+7847,Epistaxis
+7850,"Tachycardia, unspecified"
+7852,Undiagnosed cardiac murmurs
+7854,Gangrene
+78550,"Shock, unspecified"
+78551,Cardiogenic shock
+78552,Septic shock
+78559,Other shock without mention of trauma
+7856,Enlargement of lymph nodes
+78605,Shortness of breath
+78606,Tachypnea
+78609,Other respiratory abnormalities
+7861,Stridor
+7862,Cough
+7863,[UNK:7863]
+78630,"Hemoptysis, unspecified"
+78639,Other hemoptysis
+78650,"Chest pain, unspecified"
+78659,Other chest pain
+7866,"Swelling, mass, or lump in chest"
+7868,Hiccough
+78701,Nausea with vomiting
+78702,Nausea alone
+7872,[UNK:7872]
+78720,"Dysphagia, unspecified"
+78721,"Dysphagia, oral phase"
+78722,"Dysphagia, oropharyngeal phase"
+78729,Other dysphagia
+7873,"Flatulence, eructation, and gas pain"
+7876,[UNK:7876]
+78791,Diarrhea
+78820,"Retention of urine, unspecified"
+78829,Other specified retention of urine
+78830,"Urinary incontinence, unspecified"
+78831,Urge incontinence
+78841,Urinary frequency
+7885,Oliguria and anuria
+78900,"Abdominal pain, unspecified site"
+78907,"Abdominal pain, generalized"
+78909,"Abdominal pain, other specified site"
+7892,Splenomegaly
+7895,[UNK:7895]
+78951,Malignant ascites
+78959,Other ascites
+79001,Precipitous drop in hematocrit
+79029,Other abnormal glucose
+7904,Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH]
+7905,Other nonspecific abnormal serum enzyme levels
+7906,Other abnormal blood chemistry
+7907,Bacteremia
+79092,Abnormal coagulation profile
+79093,Elevated prostate specific antigen [PSA]
+79094,Euthyroid sick syndrome
+7919,Other nonspecific findings on examination of urine
+7921,Nonspecific abnormal findings in stool contents
+7931,[UNK:7931]
+79311,Solitary pulmonary nodule
+79431,Nonspecific abnormal electrocardiogram [ECG] [EKG]
+7948,Nonspecific abnormal results of function study of liver
+79579,Other and unspecified nonspecific immunological findings
+7962,Elevated blood pressure reading without diagnosis of hypertension
+7963,Nonspecific low blood pressure reading
+7990,[UNK:7990]
+79902,Hypoxemia
+7991,Respiratory arrest
+7994,Cachexia
+80122,"Closed fracture of base of skull with subarachnoid, subdural, and extradural hemorrhage, with brief [less than one hour] loss of consciousness"
+8020,Closed fracture of nasal bones
+80502,Closed fracture of second cervical vertebra
+8052,Closed fracture of dorsal [thoracic] vertebra without mention of spinal cord injury
+8054,Closed fracture of lumbar vertebra without mention of spinal cord injury
+80701,Closed fracture of one rib
+80702,Closed fracture of two ribs
+80703,Closed fracture of three ribs
+80704,Closed fracture of four ribs
+80706,Closed fracture of six ribs
+80709,"Closed fracture of multiple ribs, unspecified"
+8072,Closed fracture of sternum
+8080,Closed fracture of acetabulum
+8082,Closed fracture of pubis
+80841,Closed fracture of ilium
+81200,Closed fracture of unspecified part of upper end of humerus
+82009,Other closed transcervical fracture of neck of femur
+82021,Closed fracture of intertrochanteric section of neck of femur
+8208,Closed fracture of unspecified part of neck of femur
+82300,Closed fracture of upper end of tibia alone
+8248,"Unspecified fracture of ankle, closed"
+85180,"Other and unspecified cerebral laceration and contusion, without mention of open intracranial wound, unspecified state of consciousness"
+85182,"Other and unspecified cerebral laceration and contusion, without mention of open intracranial wound, with brief [less than one hour] loss of consciousness"
+85186,"Other and unspecified cerebral laceration and contusion, without mention of open intracranial wound, with loss of consciousness of unspecified duration"
+85201,"Subarachnoid hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness"
+85220,"Subdural hemorrhage following injury without mention of open intracranial wound, unspecified state of consciousness"
+85221,"Subdural hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness"
+85301,"Other and unspecified intracranial hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness"
+8600,Traumatic pneumothorax without mention of open wound into thorax
+8602,Traumatic hemothorax without mention of open wound into thorax
+8604,Traumatic pneumohemothorax without mention of open wound into thorax
+86121,Contusion of lung without mention of open wound into thorax
+86401,"Injury to liver without mention of open wound into cavity, hematoma and contusion"
+86502,"Injury to spleen without mention of open wound into cavity, capsular tears, without major disruption of parenchyma"
+86602,"Injury to kidney without mention of open wound into cavity, laceration"
+8670,"Injury to bladder and urethra, without mention of open wound into cavity"
+8730,"Open wound of scalp, without mention of complication"
+87343,"Open wound of lip, without mention of complication"
+87344,"Open wound of jaw, without mention of complication"
+9070,Late effect of intracranial injury without mention of skull fracture
+9072,Late effect of spinal cord injury
+9092,Late effect of radiation
+9100,"Abrasion or friction burn of face, neck, and scalp except eye, without mention of infection"
+9130,"Abrasion or friction burn of elbow, forearm, and wrist, without mention of infection"
+9160,"Abrasion or friction burn of hip, thigh, leg, and ankle, without mention of infection"
+920,"Contusion of face, scalp, and neck except eye(s)"
+92232,Contusion of buttock
+92400,Contusion of thigh
+92410,Contusion of lower leg
+92411,Contusion of knee
+9331,Foreign body in larynx
+9340,Foreign body in trachea
+9341,Foreign body in main bronchus
+9348,Foreign body in other specified parts bronchus and lung
+9349,"Foreign body in respiratory tree, unspecified"
+9351,Foreign body in esophagus
+95892,Traumatic compartment syndrome of lower extremity
+9623,Poisoning by insulins and antidiabetic agents
+96509,Poisoning by other opiates and related narcotics
+9663,Poisoning by other and unspecified anticonvulsants
+9690,[UNK:9690]
+9694,Poisoning by benzodiazepine-based tranquilizers
+9916,Hypothermia
+9951,"Angioneurotic edema, not elsewhere classified"
+99591,Sepsis
+99592,Severe sepsis
+99593,Systemic inflammatory response syndrome due to noninfectious process without acute organ dysfunction
+99594,Systemic inflammatory response syndrome due to noninfectious process with acute organ dysfunction
+99601,Mechanical complication due to cardiac pacemaker (electrode)
+99602,Mechanical complication due to heart valve prosthesis
+99604,Mechanical complication of automatic implantable cardiac defibrillator
+9961,"Mechanical complication of other vascular device, implant, and graft"
+9962,"Mechanical complication of nervous system device, implant, and graft"
+99649,"Other mechanical complication of other internal orthopedic device, implant, and graft"
+99659,"Mechanical complication due to other implant and internal device, not elsewhere classified"
+99661,"Infection and inflammatory reaction due to cardiac device, implant, and graft"
+99662,"Infection and inflammatory reaction due to other vascular device, implant, and graft"
+99663,"Infection and inflammatory reaction due to nervous system device, implant, and graft"
+99664,Infection and inflammatory reaction due to indwelling urinary catheter
+99665,"Infection and inflammatory reaction due to other genitourinary device, implant, and graft"
+99666,Infection and inflammatory reaction due to internal joint prosthesis
+99667,"Infection and inflammatory reaction due to other internal orthopedic device, implant, and graft"
+99669,"Infection and inflammatory reaction due to other internal prosthetic device, implant, and graft"
+99671,Other complications due to heart valve prosthesis
+99672,"Other complications due to other cardiac device, implant, and graft"
+99673,"Other complications due to renal dialysis device, implant, and graft"
+99674,"Other complications due to other vascular device, implant, and graft"
+99676,"Other complications due to genitourinary device, implant, and graft"
+99679,"Other complications due to other internal prosthetic device, implant, and graft"
+99681,Complications of transplanted kidney
+99682,Complications of transplanted liver
+99685,Complications of transplanted bone marrow
+99686,Complications of transplanted pancreas
+99702,Iatrogenic cerebrovascular infarction or hemorrhage
+99709,Other nervous system complications
+9971,"Cardiac complications, not elsewhere classified"
+9972,"Peripheral vascular complications, not elsewhere classified"
+9973,[UNK:9973]
+99731,Ventilator associated pneumonia
+99739,Other respiratory complications
+9974,[UNK:9974]
+99749,Other digestive system complications
+9975,"Urinary complications, not elsewhere classified"
+99762,Infection (chronic) of amputation stump
+99769,Other amputation stump complication
+99791,"Complications affecting other specified body systems, not elsewhere classified, hypertension"
+9980,[UNK:9980]
+99811,Hemorrhage complicating a procedure
+99812,Hematoma complicating a procedure
+99813,Seroma complicating a procedure
+9982,"Accidental puncture or laceration during a procedure, not elsewhere classified"
+99831,Disruption of internal operation (surgical) wound
+99832,Disruption of external operation (surgical) wound
+99859,Other postoperative infection
+9986,Persistent postoperative fistula
+99881,Emphysema (subcutaneous) (surgical) resulting from procedure
+99883,Non-healing surgical wound
+99889,Other specified complications of procedures not elsewhere classified
+9992,"Other vascular complications of medical care, not elsewhere classified"
+9993,[UNK:9993]
+99931,Other and unspecified infection due to central venous catheter
+99932,Bloodstream infection due to central venous catheter
+9998,[UNK:9998]
+99989,Other transfusion reaction
+9999,"Other and unspecified complications of medical care, not elsewhere classified"
+E8122,Other motor vehicle traffic accident involving collision with motor vehicle injuring motorcyclist
+E8147,Motor vehicle traffic accident involving collision with pedestrian injuring pedestrian
+E8150,Other motor vehicle traffic accident involving collision on the highway injuring driver of motor vehicle other than motorcycle
+E8160,"Motor vehicle traffic accident due to loss of control, without collision on the highway, injuring driver of motor vehicle other than motorcycle"
+E8490,Home accidents
+E8497,Accidents occurring in residential institution
+E8498,Accidents occurring in other specified places
+E8499,Accidents occurring in unspecified place
+E8502,Accidental poisoning by other opiates and related narcotics
+E8532,Accidental poisoning by benzodiazepine-based tranquilizers
+E8700,"Accidental cut, puncture, perforation or hemorrhage during surgical operation"
+E8704,"Accidental cut, puncture, perforation or hemorrhage during endoscopic examination"
+E8708,"Accidental cut, puncture, perforation or hemorrhage during other specified medical care"
+E8780,"Surgical operation with transplant of whole organ causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation"
+E8781,"Surgical operation with implant of artificial internal device causing abnormal patient reaction, or later complication,without mention of misadventure at time of operation"
+E8782,"Surgical operation with anastomosis, bypass, or graft, with natural or artificial tissues used as implant causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation"
+E8783,"Surgical operation with formation of external stoma causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation"
+E8784,"Other restorative surgery causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation"
+E8785,"Amputation of limb(s) causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation"
+E8786,"Removal of other organ (partial) (total) causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation"
+E8788,"Other specified surgical operations and procedures causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation"
+E8790,"Cardiac catheterization as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure"
+E8791,"Kidney dialysis as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure"
+E8792,"Radiological procedure and radiotherapy as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure"
+E8794,"Aspiration of fluid as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure"
+E8796,"Urinary catheterization as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure"
+E8798,"Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure"
+E8809,Accidental fall on or from other stairs or steps
+E8844,Accidental fall from bed
+E8846,Accidental fall from commode
+E8849,Other accidental fall from one level to another
+E8859,"Fall from other slipping, tripping, or stumbling"
+E8889,Unspecified fall
+E9010,Accident due to excessive cold due to weather conditions
+E911,Inhalation and ingestion of food causing obstruction of respiratory tract or suffocation
+E912,Inhalation and ingestion of other object causing obstruction of respiratory tract or suffocation
+E915,Foreign body accidentally entering other orifice
+E9288,Other accidents
+E9289,Unspecified accident
+E9290,Late effects of motor vehicle accident
+E9293,Late effects of accidental fall
+E9298,Late effects of other accidents
+E9299,Late effects of unspecified accident
+E9300,Penicillins causing adverse effects in therapeutic use
+E9305,Cephalosporin group causing adverse effects in therapeutic use
+E9308,Other specified antibiotics causing adverse effects in therapeutic use
+E9309,Unspecified antibiotic causing adverse effects in therapeutic use
+E9310,Sulfonamides causing adverse effects in therapeutic use
+E9317,Antiviral drugs causing adverse effects in therapeutic use
+E9320,Adrenal cortical steroids causing adverse effects in therapeutic use
+E9323,Insulins and antidiabetic agents causing adverse effects in therapeutic use
+E9331,Antineoplastic and immunosuppressive drugs causing adverse effects in therapeutic use
+E9342,Anticoagulants causing adverse effects in therapeutic use
+E9348,Other agents affecting blood constituents causing adverse effects in therapeutic use
+E9352,Other opiates and related narcotics causing adverse effects in therapeutic use
+E9353,Salicylates causing adverse effects in therapeutic use
+E9358,Other specified analgesics and antipyretics causing adverse effects in therapeutic use
+E9359,Unspecified analgesic and antipyretic causing adverse effects in therapeutic use
+E9361,Hydantoin derivatives causing adverse effects in therapeutic use
+E9363,Other and unspecified anticonvulsants causing adverse effects in therapeutic use
+E9378,Other sedatives and hypnotics causing adverse effects in therapeutic use
+E9379,Unspecified sedatives and hypnotics causing adverse effects in therapeutic use
+E9383,Intravenous anesthetics causing adverse effects in therapeutic use
+E9384,Other and unspecified general anesthetics causing adverse effects in therapeutic use
+E9394,Benzodiazepine-based tranquilizers causing adverse effects in therapeutic use
+E9413,Sympatholytics [antiadrenergics] causing adverse effects in therapeutic use
+E9420,Cardiac rhythm regulators causing adverse effects in therapeutic use
+E9424,Coronary vasodilators causing adverse effects in therapeutic use
+E9426,Other antihypertensive agents causing adverse effects in therapeutic use
+E9429,Other and unspecified agents primarily affecting the cardiovascular system causing adverse effects in therapeutic use
+E9444,Other diuretics causing adverse effects in therapeutic use
+E9478,Other drugs and medicinal substances causing adverse effects in therapeutic use
+E9479,Unspecified drug or medicinal substance causing adverse effects in therapeutic use
+E9504,Suicide and self-inflicted poisoning by other specified drugs and medicinal substances
+E9800,"Poisoning by analgesics, antipyretics, and antirheumatics, undetermined whether accidentally or purposely inflicted"
+E9803,"Poisoning by tranquilizers and other psychotropic agents, undetermined whether accidentally or purposely inflicted"
+E9804,"Poisoning by other specified drugs and medicinal substances, undetermined whether accidentally or purposely inflicted"
+V0254,Carrier or suspected carrier of Methicillin resistant Staphylococcus aureus
+V0259,Carrier or suspected carrier of other specified bacterial diseases
+V0382,Other specified vaccinations against streptococcus pneumoniae [pneumococcus]
+V071,Need for desensitization to allergens
+V08,Asymptomatic human immunodeficiency virus [HIV] infection status
+V090,Infection with microorganisms resistant to penicillins
+V0980,Infection with microorganisms without mention of resistance to multiple drugs
+V0991,"Infection with drug-resistant microorganisms, unspecified, with multiple drug resistance"
+V1003,Personal history of malignant neoplasm of esophagus
+V1004,Personal history of malignant neoplasm of stomach
+V1005,Personal history of malignant neoplasm of large intestine
+V1006,"Personal history of malignant neoplasm of rectum, rectosigmoid junction, and anus"
+V1007,Personal history of malignant neoplasm of liver
+V1009,Personal history of malignant neoplasm of other gastrointestinal tract
+V1011,Personal history of malignant neoplasm of bronchus and lung
+V1021,Personal history of malignant neoplasm of larynx
+V103,Personal history of malignant neoplasm of breast
+V1041,Personal history of malignant neoplasm of cervix uteri
+V1042,Personal history of malignant neoplasm of other parts of uterus
+V1043,Personal history of malignant neoplasm of ovary
+V1046,Personal history of malignant neoplasm of prostate
+V1047,Personal history of malignant neoplasm of testis
+V1051,Personal history of malignant neoplasm of bladder
+V1052,Personal history of malignant neoplasm of kidney
+V1072,Personal history of hodgkin's disease
+V1079,Personal history of other lymphatic and hematopoietic neoplasms
+V1082,Personal history of malignant melanoma of skin
+V1083,Personal history of other malignant neoplasm of skin
+V1085,Personal history of malignant neoplasm of brain
+V1087,Personal history of malignant neoplasm of thyroid
+V1089,Personal history of malignant neoplasm of other sites
+V113,Personal history of alcoholism
+V1201,Personal history of tuberculosis
+V1202,Personal history of poliomyelitis
+V1204,Personal history of Methicillin resistant Staphylococcus aureus
+V1209,Personal history of other infectious and parasitic diseases
+V1251,Personal history of venous thrombosis and embolism
+V1253,Personal history of sudden cardiac arrest
+V1254,"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits"
+V1255,Personal history of pulmonary embolism
+V1259,Personal history of other diseases of circulatory system
+V1271,Personal history of peptic ulcer disease
+V1272,Personal history of colonic polyps
+V1279,Personal history of other diseases of digestive system
+V1301,Personal history of urinary calculi
+V1302,"Personal history, urinary (tract) infection"
+V1351,Personal history of pathologic fracture
+V140,Personal history of allergy to penicillin
+V151,"Personal history of surgery to heart and great vessels, presenting hazards to health"
+V153,"Personal history of irradiation, presenting hazards to health"
+V1541,History of physical abuse
+V1551,Personal history of traumatic fracture
+V1552,Personal history of traumatic brain injury
+V1581,"Personal history of noncompliance with medical treatment, presenting hazards to health"
+V1582,Personal history of tobacco use
+V1584,Personal history of contact with and (suspected) exposure to asbestos
+V1588,History of fall
+V160,Family history of malignant neoplasm of gastrointestinal tract
+V161,"Family history of malignant neoplasm of trachea, bronchus, and lung"
+V163,Family history of malignant neoplasm of breast
+V173,Family history of ischemic heart disease
+V1749,Family history of other cardiovascular diseases
+V180,Family history of diabetes mellitus
+V290,Observation for suspected infectious condition
+V3001,"Single liveborn, born in hospital, delivered by cesarean section"
+V420,Kidney replaced by transplant
+V422,Heart valve replaced by transplant
+V427,Liver replaced by transplant
+V4281,Bone marrow replaced by transplant
+V4282,Peripheral stem cells replaced by transplant
+V4283,Pancreas replaced by transplant
+V433,Heart valve replaced by other means
+V4361,Shoulder joint replacement
+V4364,Hip joint replacement
+V4365,Knee joint replacement
+V440,Tracheostomy status
+V441,Gastrostomy status
+V442,Ileostomy status
+V443,Colostomy status
+V444,Status of other artificial opening of gastrointestinal tract
+V446,Other artificial opening of urinary tract status
+V4501,Cardiac pacemaker in situ
+V4502,Automatic implantable cardiac defibrillator in situ
+V451,[UNK:V451]
+V4511,Renal dialysis status
+V452,Presence of cerebrospinal fluid drainage device
+V453,Intestinal bypass or anastomosis status
+V454,Arthrodesis status
+V4561,Cataract extraction status
+V4571,Acquired absence of breast and nipple
+V4572,Acquired absence of intestine (large) (small)
+V4573,Acquired absence of kidney
+V4576,"Acquired absence of organ, lung"
+V4579,Other acquired absence of organ
+V4581,Aortocoronary bypass status
+V4582,Percutaneous transluminal coronary angioplasty status
+V4585,Insulin pump status
+V4586,Bariatric surgery status
+V4589,Other postprocedural status
+V4611,"Dependence on respirator, status"
+V462,"Other dependence on machines, supplemental oxygen"
+V463,Wheelchair dependence
+V4962,Other finger(s) amputation status
+V4972,Other toe(s) amputation status
+V4973,Foot amputation status
+V4975,Below knee amputation status
+V4976,Above knee amputation status
+V4983,Awaiting organ transplant status
+V4986,Do not resuscitate status
+V4987,Physical restraints status
+V5331,Fitting and adjustment of cardiac pacemaker
+V5332,Fitting and adjustment of automatic implantable cardiac defibrillator
+V5413,Aftercare for healing traumatic fracture of hip
+V5419,Aftercare for healing traumatic fracture of other bone
+V550,Attention to tracheostomy
+V551,Attention to gastrostomy
+V552,Attention to ileostomy
+V553,Attention to colostomy
+V554,Attention to other artificial opening of digestive tract
+V5811,Encounter for antineoplastic chemotherapy
+V5861,Long-term (current) use of anticoagulants
+V5863,Long-term (current) use of antiplatelet/antithrombotic
+V5865,Long-term (current) use of steroids
+V5866,Long-term (current) use of aspirin
+V5867,Long-term (current) use of insulin
+V5869,Long-term (current) use of other medications
+V5883,Encounter for therapeutic drug monitoring
+V600,Lack of housing
+V6284,Suicidal ideation
+V632,Person awaiting admission to adequate facility elsewhere
+V641,Surgical or other procedure not carried out because of contraindication
+V642,Surgical or other procedure not carried out because of patient's decision
+V643,Procedure not carried out for other reasons
+V6441,Laparoscopic surgical procedure converted to open procedure
+V6442,Thoracoscopic surgical procedure converted to open procedure
+V667,Encounter for palliative care
+V707,Examination of participant in clinical trial
+V850,"Body Mass Index less than 19, adult"
+V851,"Body Mass Index between 19-24, adult"
+V8536,"Body Mass Index 36.0-36.9, adult"
+V854,[UNK:V854]
+V8541,"Body Mass Index 40.0-44.9, adult"
+V8543,"Body Mass Index 50.0-59.9, adult"
+V8741,Personal history of antineoplastic chemotherapy
+V8801,Acquired absence of both cervix and uterus
