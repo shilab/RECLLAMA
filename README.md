@@ -34,8 +34,8 @@ Or run directly with Python:
 
 python Recllama_main.py
 
-## Demo Video
+## Demo
 
-A demonstration of the ReCLLaMA medical reasoning pipeline:
+![Demo Preview](demo.gif)
 
-[Watch Demo Video](./demo.mov)
+[Watch Full Demo](./demo.mov)
